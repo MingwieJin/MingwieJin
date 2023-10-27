@@ -29,7 +29,7 @@
 - 👀 I ’m interest in fontend, computer network, operating system, AI, etc.
 - 🌱 I’m currently learning database, AI,Chrome plug -in development.
 - 💞️ I’m looking to collaborate on article synchronization assistant.
-- 📫 How to reach me? Email: gmqiujun@gmail.com
+- 📫 How to reach me? Email: mingwei0110@163.com
 
 [![Lorin-github](https://github-readme-stats.vercel.app/api?username=MingwieJin)](https://github.com/anuraghazra/github-readme-stats)
 
